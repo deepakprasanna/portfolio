@@ -27,7 +27,7 @@ enforce_ssl                 = false
     customCSS               = []                                # Include custom css files e.g. ["css/foo.css", "css/bar.css"]
 
     showBlog                = false                              # Show Blog section on home page
-    showAllPosts            = true                             # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
+    showAllPosts            = false                             # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
     showLatest              = true                              # Show latest blog post summary
     # Share buttons on blog post pages
     shareButtons            = true                              # Show "Share this:" social buttons
@@ -48,9 +48,9 @@ enforce_ssl                 = false
     icon = "twitter"
 
 [[params.social]]
-    url  = "https://facebook.com/deepak.prasannna.r"
-    icon = "facebook"
-
-[[params.social]]
     url  = "https://github.com/deepakprasanna"
     icon = "github"
+
+[[params.social]]
+    url  = "https://medium.com/@assortedPickle"
+    icon = "medium"
