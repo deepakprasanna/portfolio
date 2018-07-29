@@ -17,6 +17,3 @@ date: 2018-07-22T21:22:02-07:00
 <br />
 <a href="https://medium.com/tarkalabs-til/dockerfile-for-create-react-app-using-multistage-builds-3868b4640e50"
   target="_blank">Dockerfile for create-react-app using multistage builds</a>
-<div align="right">
-  <a href="/blogposts">View all posts</a>
-</div>
