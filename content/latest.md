@@ -4,6 +4,13 @@ date: 2018-07-22T21:22:02-07:00
 ---
 
 #### 2018
+#### August
+<a href="https://medium.com/tarkalabs/part-2-creating-a-neural-network-using-tensorflow-to-colorize-grayscale-images-ad2633a1a5a3"
+  target="_blank">Part 2 — Creating a neural network using tensorflow to colorize grayscale images</a>
+<br />
+<a href="https://medium.com/tarkalabs/part-i-creating-a-neural-network-using-tensorflow-to-colorize-grayscale-images-ed656e7e133f"
+  target="_blank">Part 1 — Creating a neural network using tensorflow to colorize grayscale images</a>
+<br />
 #### March
 <a href="https://medium.com/tarkalabs-til/simple-pomodoro-app-using-vue-js-c203b71603a6"
   target="_blank">Simple POMODORO APP using Vue.js</a>
